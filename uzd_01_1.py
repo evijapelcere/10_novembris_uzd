@@ -6,4 +6,4 @@ n= int(input("Lūdzu, ievadi skaitli n: "))
 Iznakums= (int (n+n*n+n*n*n))
 
 
-print ("Iznākums =", Iznakums)
+print (f"Iznākums ir {Iznakums}.")
